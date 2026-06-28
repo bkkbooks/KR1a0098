@@ -1,0 +1,118 @@
+canonical_identifier: bkk:krp/KR1a0098/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR1a0098/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 周易象旨決錄
+  date: '2015-08-24 21:57:40.240244'
+  source:
+    repository: kanripo
+    path: KR1a0098
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR1a0098_000-WYG.yaml, hash: 'sha256:3a4c4978c6ecd0c1afe3ed6f093cbf7746230cba2f5f51cd29362f97d98dfe4c'}
+  - {seq: 1, filename: KR1a0098_001-WYG.yaml, hash: 'sha256:006b08019b083cce34820cc472f040ed8c8aa16fb397ea770ad6ac3c74983717'}
+  - {seq: 2, filename: KR1a0098_002-WYG.yaml, hash: 'sha256:97ce0be45e2e722a61f7f650a687d56ae4c1f2c6c2986977909af27d272b232f'}
+  - {seq: 3, filename: KR1a0098_003-WYG.yaml, hash: 'sha256:894a442e2089d5db7d4fdf28a214cbd642dc9737af2402e7160f0b919494e62d'}
+  - {seq: 4, filename: KR1a0098_004-WYG.yaml, hash: 'sha256:9d5c2a220a601847224b6ca616c228296751122ea87e650f5b34b2511b604d98'}
+  - {seq: 5, filename: KR1a0098_005-WYG.yaml, hash: 'sha256:e2800bad5a437b1040b78b2be56901f8420c0bcb019b1941cbf682e79ee106dc'}
+  - {seq: 6, filename: KR1a0098_006-WYG.yaml, hash: 'sha256:fd90b94e99246c4784722899e9249f8f4086d280536e63deb172432f54dc5cb5'}
+  - {seq: 7, filename: KR1a0098_007-WYG.yaml, hash: 'sha256:06ac8fee9e44fe21da80a92de65155debb03d56eb380cb6f3361d0f715b6af99'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR1a0098_000-WYG.markers.yaml, hash: 'sha256:ce4c52d93056fca362926bae151c03d8ce23c170246e699c49e6ca0d6c00c945'}
+  - {seq: 1, role: markers, filename: assets/KR1a0098_001-WYG.markers.yaml, hash: 'sha256:127bfd05b40258cbddcff921b5d1c03ac8c9f6c9d9d23d58b2cd050a18fb49ff'}
+  - {seq: 2, role: markers, filename: assets/KR1a0098_002-WYG.markers.yaml, hash: 'sha256:7ad4d3aa3f2a813f6d4ddfb4ca9e1702626c96224acd2516c228c12f2256bf59'}
+  - {seq: 3, role: markers, filename: assets/KR1a0098_003-WYG.markers.yaml, hash: 'sha256:e32e5a9c63d95eac1fd2a189ba23a2cb2515aec02f9f3e21d588b3f2b77e51a9'}
+  - {seq: 4, role: markers, filename: assets/KR1a0098_004-WYG.markers.yaml, hash: 'sha256:588b02abd7dd150d754ad713bec996aa6d60734154c005c41ebc4b9f7b34e85c'}
+  - {seq: 5, role: markers, filename: assets/KR1a0098_005-WYG.markers.yaml, hash: 'sha256:8583e6d297c142c2e9cc4a6187b7408e29d5b4e6324d05ff7bf694b2af7fa830'}
+  - {seq: 6, role: markers, filename: assets/KR1a0098_006-WYG.markers.yaml, hash: 'sha256:158ddbfe5f44b99472e5af63b5bc4efcf1fe5180184148417194d3728306dd24'}
+  - {seq: 7, role: markers, filename: assets/KR1a0098_007-WYG.markers.yaml, hash: 'sha256:150d67f42865e3ae8704e4dbc409f1ea4eb83c007024c21874fedf65b0ea2989'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR1a0098_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 6337
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1a0098_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 19452
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR1a0098_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 20743
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR1a0098_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 20636
+  label: juan 003
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR1a0098_WYG_004-1a
+    span:
+    - body
+    - 0
+    - 22011
+  label: juan 004
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR1a0098_WYG_005-1a
+    span:
+    - body
+    - 0
+    - 13899
+  label: juan 005
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR1a0098_WYG_006-1a
+    span:
+    - body
+    - 0
+    - 9738
+  label: juan 006
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR1a0098_WYG_007-1a
+    span:
+    - body
+    - 0
+    - 14592
+  label: juan 007
+  type: section
+  level: 1
+hash: sha256:c8bb2283b7811f2a1e84dd354c7c91d57c9ec13883293cac76a40f14b282052a
